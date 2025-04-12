@@ -1,4 +1,4 @@
-﻿namespace encuestasbackend.models
+﻿namespace encuestasbackend.Domain.Entities
 {
     public class Response
     {

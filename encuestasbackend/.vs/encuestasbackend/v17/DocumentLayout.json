@@ -3,32 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\models\\responseoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:models\\responseoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\models\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:models\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\models\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:models\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\application\\common\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:application\\common\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\infrastructure\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:infrastructure\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\domain\\entities\\responseoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:domain\\entities\\responseoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\domain\\entities\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:domain\\entities\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\domain\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:domain\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\domain\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:domain\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\domain\\entities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:domain\\entities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|c:\\users\\porti\\documents\\proyectos netcore\\encuestassvbackend\\encuestasbackend\\domain\\entities\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876AB83B-84D7-4AD7-A45A-3F44B11F874A}|encuestasbackend.csproj|solutionrelative:domain\\entities\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,97 +83,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ResponseOption.cs",
-              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\ResponseOption.cs",
-              "RelativeDocumentMoniker": "models\\ResponseOption.cs",
-              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\ResponseOption.cs",
-              "RelativeToolTip": "models\\ResponseOption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T16:49:49.354Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T16:44:34.085Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\Response.cs",
-              "RelativeDocumentMoniker": "models\\Response.cs",
-              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\Response.cs",
-              "RelativeToolTip": "models\\Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T16:49:24.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Participant.cs",
-              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\Participant.cs",
-              "RelativeDocumentMoniker": "models\\Participant.cs",
-              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\Participant.cs",
-              "RelativeToolTip": "models\\Participant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T16:49:01.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Option.cs",
-              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\Option.cs",
-              "RelativeDocumentMoniker": "models\\Option.cs",
-              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\Option.cs",
-              "RelativeToolTip": "models\\Option.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T16:48:39.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\Question.cs",
-              "RelativeDocumentMoniker": "models\\Question.cs",
-              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\Question.cs",
-              "RelativeToolTip": "models\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T16:48:15.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Survey.cs",
-              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\Survey.cs",
-              "RelativeDocumentMoniker": "models\\Survey.cs",
-              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\Survey.cs",
-              "RelativeToolTip": "models\\Survey.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T16:47:45.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\User.cs",
-              "RelativeDocumentMoniker": "models\\User.cs",
-              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\models\\User.cs",
-              "RelativeToolTip": "models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T16:47:21.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
@@ -142,6 +100,214 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Application\\Common\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Application\\Common\\JwtSettings.cs",
+              "RelativeToolTip": "Application\\Common\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:31:27.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T16:18:38.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:22:35.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:25:13.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwFEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:25:38.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Application\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:23:48.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:38:11.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwEMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:15:29.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Infrastructure\\Data\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Infrastructure\\Data\\AplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:11:31.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:05:57.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseOption.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\ResponseOption.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ResponseOption.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\ResponseOption.cs",
+              "RelativeToolTip": "Domain\\Entities\\ResponseOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:49:49.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\Response.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Response.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\Response.cs",
+              "RelativeToolTip": "Domain\\Entities\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:49:24.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\Participant.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Participant.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\Participant.cs",
+              "RelativeToolTip": "Domain\\Entities\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:49:01.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Option.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\Option.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Option.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\Option.cs",
+              "RelativeToolTip": "Domain\\Entities\\Option.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:48:39.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Question.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\Question.cs",
+              "RelativeToolTip": "Domain\\Entities\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:48:15.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Survey.cs",
+              "DocumentMoniker": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\Survey.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Survey.cs",
+              "ToolTip": "C:\\Users\\porti\\Documents\\Proyectos Netcore\\Encuestassvbackend\\encuestasbackend\\Domain\\Entities\\Survey.cs",
+              "RelativeToolTip": "Domain\\Entities\\Survey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:47:45.448Z",
+              "EditorCaption": ""
             }
           ]
         }

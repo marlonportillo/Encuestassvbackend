@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace encuestasbackend.Controllers;
+namespace encuestasbackend.API.Controllers;
 
 [ApiController]
 [Route("[controller]")]
