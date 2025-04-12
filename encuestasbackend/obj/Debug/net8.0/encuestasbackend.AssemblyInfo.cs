@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("encuestasbackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72e439f3674946c9400894bbd0be55e9f4a5ae77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d2f39d135e809bf249b75d2c849c1d6935be1b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("encuestasbackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("encuestasbackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
