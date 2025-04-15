@@ -2,6 +2,7 @@
 using encuestasbackend.Application.Interfaces;
 using encuestasbackend.Domain.Entities;
 using encuestasbackend.Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace encuestasbackend.Application.Services
 {
@@ -35,19 +36,43 @@ namespace encuestasbackend.Application.Services
             };
         }
 
-        public Task<bool> DeleteAsync(Guid id)
+        public async Task<bool> DeleteAsync(Guid id)
         {
-            throw new NotImplementedException();
+            var user = await _context.Surveys.FindAsync(id);
+            if (user == null) return false;
+
+            _context.Surveys.Remove(user);
+            await _context.SaveChangesAsync();
+
+            return true;
         }
 
-        public Task<IEnumerable<SurveyDto>> GetAllAsync()
+        public async Task<IEnumerable<SurveyDto>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            return await _context.Surveys
+               .Select(survey => new SurveyDto
+               {
+                   SurveyId = survey.SurveyId,
+                   Title = survey.Title,
+                   Description = survey.Description,
+                   IsLive = true,
+                   CreatedAt = DateTime.UtcNow
+               }).ToListAsync();
         }
 
-        public Task<SurveyDto?> GetByIdAsync(Guid id)
+        public async Task<SurveyDto?> GetByIdAsync(Guid id)
         {
-            throw new NotImplementedException();
+            var survey = await _context.Surveys.FindAsync(id);
+            if (survey == null) return null;
+
+            return new SurveyDto
+            {
+                SurveyId = survey.SurveyId,
+                Title = survey.Title,
+                Description = survey.Description,
+                IsLive = true,
+                CreatedAt = DateTime.UtcNow
+            };
         }
     }
 }
